@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/restaurant/src/main/resources/mapper/AdminMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/restaurant/src/main/resources/mapper/CouponDTOMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/restaurant/src/main/resources/mapper/CouponMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/restaurant/src/main/resources/mapper/DishDTOMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/restaurant/src/main/resources/mapper/MyCouponMapper.xml" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/restaurant/src/main/resources/mapper/ShopCartMapper.xml" dialect="GenericSQL" />
+  </component>
+  <component name="SqlResolveMappings">
+    <file url="file://$PROJECT_DIR$/restaurant/src/main/resources/mapper/DishDTOMapper.xml" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;@negative&quot;:&quot;1&quot;   }  } }}" />
+    <file url="file://$PROJECT_DIR$/restaurant/src/main/resources/mapper/ShopCartMapper.xml" scope="{&quot;node&quot;:{  &quot;@negative&quot;:&quot;1&quot;,  &quot;group&quot;:{   &quot;@kind&quot;:&quot;root&quot;,   &quot;node&quot;:{    &quot;@negative&quot;:&quot;1&quot;   }  } }}" />
+  </component>
+</project>

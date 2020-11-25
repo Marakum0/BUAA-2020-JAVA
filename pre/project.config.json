@@ -1,0 +1,114 @@
+{
+  "description": "项目配置文件。",
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": false,
+    "postcss": false,
+    "preloadBackgroundData": false,
+    "minified": true,
+    "newFeature": true,
+    "coverView": true,
+    "nodeModules": false,
+    "autoAudits": false,
+    "showShadowRootInWxmlPanel": true,
+    "scopeDataCheck": false,
+    "uglifyFileName": false,
+    "checkInvalidKey": true,
+    "checkSiteMap": true,
+    "uploadWithSourceMap": true,
+    "compileHotReLoad": false,
+    "useMultiFrameRuntime": false,
+    "useApiHook": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    },
+    "useIsolateContext": true,
+    "useCompilerModule": true,
+    "userConfirmedUseCompilerModuleSwitch": false,
+    "packNpmManually": false,
+    "packNpmRelationList": [],
+    "enableEngineNative": false,
+    "minifyWXSS": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "1.5.2",
+  "appid": "wx4254bcdb00bcfc4c",
+  "projectname": "wxdc",
+  "simulatorType": "wechat",
+  "simulatorPluginLibVersion": {},
+  "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "id": -1,
+          "name": "列表",
+          "pathName": "pages/list/list",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "订单详情",
+          "pathName": "pages/order/balance/balance",
+          "query": ""
+        },
+        {
+          "id": 2,
+          "name": "我的",
+          "pathName": "pages/mine/mine",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "订单列表",
+          "pathName": "pages/order/list/list",
+          "query": ""
+        },
+        {
+          "id": 4,
+          "name": "订单详情",
+          "pathName": "pages/order/detail/detail",
+          "query": "dining_id=23"
+        },
+        {
+          "id": -1,
+          "name": "订单列表查询窗口",
+          "pathName": "pages/order/list/list",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "我的优惠券",
+          "pathName": "pages/coupon/coupon",
+          "query": ""
+        },
+        {
+          "id": -1,
+          "name": "我的会员卡",
+          "pathName": "pages/usercard/usercard",
+          "query": ""
+        },
+        {
+          "id": 8,
+          "name": "预约号码",
+          "pathName": "pages/reserve/reserve",
+          "query": "waitNo=234"
+        }
+      ]
+    }
+  }
+}
